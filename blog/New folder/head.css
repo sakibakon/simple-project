@@ -1,0 +1,129 @@
+a:hover{
+background-color:#66FF00;
+}
+
+#full{
+	width:100%;
+	height:auto;
+	margin-left:0px;;
+	margin-top:0px;
+	margin-right:0px;
+	padding:0px;
+}
+#head{
+	width:100%;
+	height:50px;
+	margin:0px;
+	padding:0px;
+	background-color:#000000;
+	color:#FFFFFF;		
+}
+#menue{
+	width:100%;
+	height:50px;
+	margin:0px;
+	padding:0px;
+	background-color:#666666;
+}
+#body2{
+	width:100%;
+	min-height:600px;
+	max-height:auto;
+	background-color:#999966;
+}
+#body{
+	width:75%;
+	min-height:600px;
+	max-height:auto;
+	background-color:#CCFFFF;
+	margin-left:25%;
+}
+#footer{
+	width:100%;
+	height:100px;
+	background-color:#999999;
+	color:#FF0000;
+}
+#menue ul{
+	margin:0px;
+	padding:0px;
+}
+#menue li{
+	list-style-type:none;
+	float:left;
+	display:block;
+	width:20%;
+	height:50px;
+	font-size:24px;
+	padding-top:5px;
+}
+#menue li a{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+	
+#h{
+	font-size:40px;
+}
+#side{
+	width:25%;
+	height:600px;
+	background-color:#999966;
+	float:left;
+	
+}
+#side ul li a{
+	font-size:37px;
+	margin-left:5px;
+	margin-top:10px;
+	margin-bottom:5px;
+	text-decoration:none;	
+}
+#side ul li{
+	list-style-type:none;
+	display:block;
+}
+#side ul{
+	margin :5px;
+	padding:5px;
+}
+#search{
+	float:left;
+}
+#sironam{
+	width:80%;
+	height:auto;
+	font-size:24px;
+	color:#9900CC;
+	margin-left:30px;
+	margin-right:20px
+}
+#blog{
+	width:90%;
+	height:auto;
+	margin-left:15px;
+	margin-right:0px;
+}
+#date{
+	font-size:16px;
+}
+#form{
+	margin-left:25px;
+	margin-right:20px;
+	font-size:24px;
+}
+#form_h{
+	width:90%;
+}
+#form_n{
+	
+}#form_c{
+	
+}#form_a{
+	width:90%;
+	height:300;
+	
+}
+#ar{
+	font-size:14px;
+}
